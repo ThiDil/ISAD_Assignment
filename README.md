@@ -5,4 +5,4 @@ birthdate(s) of a single user or two users and calculates the life path number o
 birthdate and display the life path number, the lucky color corresponding to said life
 path number and the generation the person belongs to. If the user enters two
 birthdates the program displays whether the life path numbers of the two birthdates
-are equal, on top the calculations mentioned previously.
+are equal, on top of the calculations mentioned previously.
